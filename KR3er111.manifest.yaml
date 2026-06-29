@@ -1,0 +1,157 @@
+canonical_identifier: bkk:krp/KR3er111/v1
+canonical_location: https://kanripo.org/bkk/KR3er111/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 過庭錄存
+  identifiers:
+    krp: KR3er111
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er111.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er111_000.yaml, hash: 'sha256:74065baf66f0afb1d333ce7b3662f59c0e725391935483c7c2c38764b50990de'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er111_000.markers.yaml, hash: 'sha256:6635137226dd5c3110c36a047175e6acc17c229940241830a86470fe30395275'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 670
+  label: 安徽程
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d3.h1s1
+    span:
+    - body
+    - 670
+    - 1215
+  label: 杭州汪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d4.h1s1
+    span:
+    - body
+    - 1215
+    - 1514
+  label: 西匯胡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d5.h1s1
+    span:
+    - body
+    - 1514
+    - 1802
+  label: 藩署蕭
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d6.h1s1
+    span:
+    - body
+    - 1802
+    - 2084
+  label: 松江朱逢辰次診
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d7.h1s1
+    span:
+    - body
+    - 2084
+    - 2727
+  label: 復朱逢辰書
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d8.h1s1
+    span:
+    - body
+    - 2727
+    - 2883
+  label: 嘉善吳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d9.h1s1
+    span:
+    - body
+    - 2883
+    - 3378
+  label: 常熟李
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d10.h1s1
+    span:
+    - body
+    - 3378
+    - 4020
+  label: 崑山陳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d11.h1s1
+    span:
+    - body
+    - 4020
+    - 4388
+  label: 虞德泰窒人新城西柵五十歲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d12.h1s1
+    span:
+    - body
+    - 4388
+    - 5019
+  label: 平望陸信夫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d13.h1s1
+    span:
+    - body
+    - 5019
+    - 5608
+  label: 溫中軍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er111_jc_000-d14.h1s1
+    span:
+    - body
+    - 5608
+    - 6267
+  label: 覆元和何明府改定丸方
+  type: section
+  level: 1
+hash: sha256:113780da430d73a69190412c4913e41d13e56ad0e4313780c6cb030be6b3730c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
