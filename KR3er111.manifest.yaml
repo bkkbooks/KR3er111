@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er111_000.yaml, hash: 'sha256:74065baf66f0afb1d333ce7b3662f59c0e725391935483c7c2c38764b50990de'}
+  - {seq: 0, filename: KR3er111_000.yaml, hash: 'sha256:65a5ae30e028c0331da7f1f40dbfb0989ba8578932417f4bc269f55d5c61645c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er111_000.markers.yaml, hash: 'sha256:6635137226dd5c3110c36a047175e6acc17c229940241830a86470fe30395275'}
+  - {seq: 0, role: markers, filename: assets/KR3er111_000.markers.yaml, hash: 'sha256:0428b93029380f2e638e62acdd8558143b3610a75b8c83c931d512b4eb3e38a7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -151,7 +151,4 @@ table_of_contents:
   label: 覆元和何明府改定丸方
   type: section
   level: 1
-hash: sha256:113780da430d73a69190412c4913e41d13e56ad0e4313780c6cb030be6b3730c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c578493f89b4c24775a5a1ba85c33e0ec3fff228ee67f7c85ba5e416864cf7d2
