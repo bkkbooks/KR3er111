@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er111/v1
 canonical_location: https://kanripo.org/bkk/KR3er111/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 過庭錄存
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er111_000.yaml, hash: 'sha256:65a5ae30e028c0331da7f1f40dbfb0989ba8578932417f4bc269f55d5c61645c'}
+  - {seq: 0, filename: KR3er111_000.yaml, hash: 'sha256:d187805b5c7612d81b5ab4824c5c75fed32efad857710126c77af8abfc4e0508'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er111_000.markers.yaml, hash: 'sha256:0428b93029380f2e638e62acdd8558143b3610a75b8c83c931d512b4eb3e38a7'}
+  - {seq: 0, role: markers, filename: assets/KR3er111_000.markers.yaml, hash: 'sha256:cbc3f4517b13dc0c13f6570f179b3ff582891923c0e8fb5ca25c4b3e7d53604a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -151,4 +151,7 @@ table_of_contents:
   label: 覆元和何明府改定丸方
   type: section
   level: 1
-hash: sha256:c578493f89b4c24775a5a1ba85c33e0ec3fff228ee67f7c85ba5e416864cf7d2
+hash: sha256:ed9d942ac3d85a08539e727821f2933b24130e88313eae2391d996613ba67076
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
